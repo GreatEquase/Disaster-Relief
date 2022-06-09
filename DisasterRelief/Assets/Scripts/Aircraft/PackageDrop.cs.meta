@@ -3,7 +3,9 @@ guid: 7b25e985ecc6005488a86499e8e6c636
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - dropPoint: {instanceID: 0}
+  - package: {fileID: 919132149155446097, guid: 4e124509b30a30b4f9e48df760609a11, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
